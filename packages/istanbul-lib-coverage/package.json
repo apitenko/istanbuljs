@@ -1,6 +1,7 @@
 {
   "name": "istanbul-lib-coverage",
-  "version": "2.0.3",
+  "version": "2.0.3-1",
+  "publishConfig":{"registry":"https://maven.vpn.etonreve.com/api/npm/npm"},
   "description": "Data library for istanbul coverage objects",
   "author": "Krishnan Anantheswaran <kananthmail-github@yahoo.com>",
   "main": "index.js",
